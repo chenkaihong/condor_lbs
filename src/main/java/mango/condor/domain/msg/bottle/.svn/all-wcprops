@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle
+END
+FetchBottleRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/FetchBottleRspMsg.java
+END
+SenderHarvestRewardReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/SenderHarvestRewardReqMsg.java
+END
+ReplyBottleRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/ReplyBottleRspMsg.java
+END
+GetBottleContentReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/GetBottleContentReqMsg.java
+END
+DeleteBottleRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/DeleteBottleRspMsg.java
+END
+ThrowBottleRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/ThrowBottleRspMsg.java
+END
+ViewBottleContentRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/ViewBottleContentRspMsg.java
+END
+GetUnreadNumReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/GetUnreadNumReqMsg.java
+END
+MyBottleReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/MyBottleReqMsg.java
+END
+SenderHarvestRewardRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/SenderHarvestRewardRspMsg.java
+END
+GetReplyRewardReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/GetReplyRewardReqMsg.java
+END
+GetBottleContentRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/GetBottleContentRspMsg.java
+END
+FetchBottleReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/FetchBottleReqMsg.java
+END
+ReplyBottleReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/ReplyBottleReqMsg.java
+END
+GetUnreadNumRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/GetUnreadNumRspMsg.java
+END
+MyBottleRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/MyBottleRspMsg.java
+END
+DeleteBottleReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/DeleteBottleReqMsg.java
+END
+GetReplyRewardRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/GetReplyRewardRspMsg.java
+END
+ThrowBottleReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/ThrowBottleReqMsg.java
+END
+ViewBottleContentReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/bottle/ViewBottleContentReqMsg.java
+END

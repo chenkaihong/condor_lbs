@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg
+END
+LBSMessageDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/LBSMessageDefine.java
+END
+LBSResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/LBSResponseMessage.java
+END
+LBSMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/LBSMessage.java
+END
+CommonRespMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/CommonRespMsg.java
+END
+LBSRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/LBSRequestMessage.java
+END

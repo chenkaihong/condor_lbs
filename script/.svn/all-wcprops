@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/script
+END
+package.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/script/package.py
+END
+package_korea.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/script/package_korea.py
+END
+package_china.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/script/package_china.py
+END
+package_taiwan.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/script/package_taiwan.py
+END
+tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/script/tools.py
+END
+createBranch.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/script/createBranch.py
+END
+package_fengce.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/script/package_fengce.py
+END
+package_inner_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/script/package_inner_test.py
+END
+shell.bat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/script/shell.bat
+END

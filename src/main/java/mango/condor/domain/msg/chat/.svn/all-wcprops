@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat
+END
+ChatListMyReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/ChatListMyReqMsg.java
+END
+SearchPlayerReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/SearchPlayerReqMsg.java
+END
+GetBlackListRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/GetBlackListRspMsg.java
+END
+ChatDeleteMyRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/ChatDeleteMyRspMsg.java
+END
+RemoveBlackListReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/RemoveBlackListReqMsg.java
+END
+ChatListMyContentRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/ChatListMyContentRspMsg.java
+END
+InitChatCacheOnLoginRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/InitChatCacheOnLoginRspMsg.java
+END
+InsertBlackListReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/InsertBlackListReqMsg.java
+END
+ChatListMyRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/ChatListMyRspMsg.java
+END
+ChatSendMyReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/ChatSendMyReqMsg.java
+END
+SearchPlayerRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/SearchPlayerRspMsg.java
+END
+ChatHistoryReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/ChatHistoryReqMsg.java
+END
+DeleteChatReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/DeleteChatReqMsg.java
+END
+RemoveBlackListRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/RemoveBlackListRspMsg.java
+END
+GetBlackListReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/GetBlackListReqMsg.java
+END
+ChatDeleteMyReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/ChatDeleteMyReqMsg.java
+END
+InsertBlackListRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/InsertBlackListRspMsg.java
+END
+ChatSendMyRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/ChatSendMyRspMsg.java
+END
+ChatListMyContentReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/ChatListMyContentReqMsg.java
+END
+InitChatCacheOnLoginReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/InitChatCacheOnLoginReqMsg.java
+END
+ChatHistoryRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/ChatHistoryRspMsg.java
+END
+DeleteChatRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/chat/DeleteChatRspMsg.java
+END

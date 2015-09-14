@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service
+END
+ChatService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/ChatService.java
+END
+LBSService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/LBSService.java
+END
+ImageWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/ImageWrapper.java
+END
+StorageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/StorageService.java
+END
+UserActionMonitorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/UserActionMonitorService.java
+END
+BottleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/BottleService.java
+END
+PlayerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/PlayerService.java
+END
+MapService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/MapService.java
+END

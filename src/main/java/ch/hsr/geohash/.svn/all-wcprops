@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash
+END
+GeoHashBoundingBoxSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/GeoHashBoundingBoxSearchTest.java
+END
+GeoHashCircleQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/GeoHashCircleQueryTest.java
+END
+WGS84Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/WGS84Point.java
+END
+WGS84PointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/WGS84PointTest.java
+END
+BoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/BoundingBox.java
+END
+BoundingBoxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/BoundingBoxTest.java
+END
+GeoHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/GeoHash.java
+END
+GeoHashTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/GeoHashTest.java
+END

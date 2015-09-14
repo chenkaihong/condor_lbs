@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs
+END
+BMapReverseGeoResp.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/BMapReverseGeoResp.java
+END
+FollowRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/FollowRecord.java
+END
+BMapIPGeoRespStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/BMapIPGeoRespStatus.java
+END
+Coor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/Coor.java
+END
+BasePlayerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/BasePlayerInfo.java
+END
+BMapReverseGeoRespStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/BMapReverseGeoRespStatus.java
+END
+PlayerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/PlayerInfo.java
+END
+FollowMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/FollowMsg.java
+END
+TmpFollowRankItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/TmpFollowRankItem.java
+END
+FollowRank.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/FollowRank.java
+END
+RangePlayerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/RangePlayerInfo.java
+END
+ServerURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/ServerURL.java
+END
+BMapIPGeoResp.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/BMapIPGeoResp.java
+END
+NeighbourInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/NeighbourInfo.java
+END
+FollowList.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/lbs/FollowList.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/dao
+END
+PlayerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/dao/PlayerDao.java
+END
+ChatDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/dao/ChatDao.java
+END
+ConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/dao/ConnectionPool.java
+END
+DaoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/dao/DaoFactory.java
+END
+BottleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/dao/BottleDao.java
+END

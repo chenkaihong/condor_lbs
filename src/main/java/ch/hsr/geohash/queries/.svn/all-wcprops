@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/queries
+END
+GeoHashBoundingBoxQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/queries/GeoHashBoundingBoxQuery.java
+END
+GeoHashQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/queries/GeoHashQuery.java
+END
+GeoHashCircleQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/queries/GeoHashCircleQuery.java
+END

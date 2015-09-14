@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/win_script
+END
+mvn_deploy.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/win_script/mvn_deploy.bat
+END
+mvn_eclipse.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/win_script/mvn_eclipse.bat
+END
+mvn_install.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/win_script/mvn_install.bat
+END

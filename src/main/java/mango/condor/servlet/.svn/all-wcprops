@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/servlet
+END
+ResetGeoHashDataServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/servlet/ResetGeoHashDataServlet.java
+END
+MaintanceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/servlet/MaintanceServlet.java
+END
+LBSServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/servlet/LBSServlet.java
+END
+DeletePlayersServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/servlet/DeletePlayersServlet.java
+END
+CombineServerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/servlet/CombineServerServlet.java
+END
+InitServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/servlet/InitServlet.java
+END
+GenRankServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/servlet/GenRankServlet.java
+END
+SyncPlayerInfoServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/servlet/SyncPlayerInfoServlet.java
+END
+ClearIndexFreshServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/servlet/ClearIndexFreshServlet.java
+END

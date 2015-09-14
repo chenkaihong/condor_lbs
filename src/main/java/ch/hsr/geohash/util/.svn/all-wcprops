@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util
+END
+VincentyGeodesy.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util/VincentyGeodesy.java
+END
+GeoHashSizeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util/GeoHashSizeTable.java
+END
+GeoHashSizeTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util/GeoHashSizeTableTest.java
+END
+BoundingBoxSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util/BoundingBoxSampler.java
+END
+BoundingBoxSamplerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util/BoundingBoxSamplerTest.java
+END
+BoundingBoxGeoHashIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util/BoundingBoxGeoHashIterator.java
+END
+BoundingBoxGeoHashIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util/BoundingBoxGeoHashIteratorTest.java
+END
+RandomGeohashes.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util/RandomGeohashes.java
+END
+TwoGeoHashBoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util/TwoGeoHashBoundingBox.java
+END
+LongUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util/LongUtil.java
+END
+LongUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/ch/hsr/geohash/util/LongUtilTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/timer
+END
+TimerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/timer/TimerService.java
+END
+UserDataTimerCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/timer/UserDataTimerCleaner.java
+END
+BottleTimerCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/timer/BottleTimerCleaner.java
+END
+ChatTimerCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/service/timer/ChatTimerCleaner.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/map
+END
+MapRangeListMsgRsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/map/MapRangeListMsgRsp.java
+END
+MapRangeListMsgReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/map/MapRangeListMsgReq.java
+END
+MapExploreMsgRsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/map/MapExploreMsgRsp.java
+END
+MapExploreMsgReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/map/MapExploreMsgReq.java
+END

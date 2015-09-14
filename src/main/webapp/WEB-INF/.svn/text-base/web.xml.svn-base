@@ -1,0 +1,140 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+	<display-name>game_lbs</display-name>
+
+    <!-- 项目启动销毁监听器 -->
+	<listener>
+		<listener-class>mango.condor.listener.ServerListener</listener-class>
+	</listener>
+	
+	<!-- 解析请求的filter -->
+	<filter>
+		<filter-name>ParseURL</filter-name>
+		<filter-class>mango.condor.filter.URLFilter</filter-class>
+	</filter>
+
+	<filter-mapping>
+		<filter-name>ParseURL</filter-name>
+		<url-pattern>/lbs</url-pattern>
+	</filter-mapping>
+	
+	<!-- 总入口 -->
+	<servlet>
+		<description>LBS</description>
+		<display-name>LBS</display-name>
+		<servlet-name>LBS</servlet-name>
+		<servlet-class>mango.condor.servlet.LBSServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>LBS</servlet-name>
+		<url-pattern>/lbs</url-pattern>
+	</servlet-mapping>
+	
+	<!-- 初始化 -->
+	<servlet>
+		<description>init</description>
+		<display-name>init</display-name>
+		<servlet-name>init</servlet-name>
+		<servlet-class>mango.condor.servlet.InitServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>init</servlet-name>
+		<url-pattern>/init</url-pattern>
+	</servlet-mapping>
+	
+	<!-- 每小时生成排行榜的接口 -->
+	<servlet>
+		<description>rank</description>
+		<display-name>rank</display-name>
+		<servlet-name>rank</servlet-name>
+		<servlet-class>mango.condor.servlet.GenRankServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>rank</servlet-name>
+		<url-pattern>/rank</url-pattern>
+	</servlet-mapping>
+	
+	<!-- 每隔一段时间清除新鲜事 -->
+	<servlet>
+		<description>clearIndexFresh</description>
+		<display-name>clearIndexFresh</display-name>
+		<servlet-name>clearIndexFresh</servlet-name>
+		<servlet-class>mango.condor.servlet.ClearIndexFreshServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>clearIndexFresh</servlet-name>
+		<url-pattern>/clearIndexFresh</url-pattern>
+	</servlet-mapping>
+
+	<!-- 同步玩家数据，每天凌晨5点调用 -->
+	<servlet>
+		<description>sync</description>
+		<display-name>sync</display-name>
+		<servlet-name>sync</servlet-name>
+		<servlet-class>mango.condor.servlet.SyncPlayerInfoServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>sync</servlet-name>
+		<url-pattern>/sync</url-pattern>
+	</servlet-mapping>
+	
+	<!-- 维护接口 -->
+	<servlet>
+		<description>maintance</description>
+		<display-name>maintance</display-name>
+		<servlet-name>maintance</servlet-name>
+		<servlet-class>mango.condor.servlet.MaintanceServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>maintance</servlet-name>
+		<url-pattern>/maintance</url-pattern>
+	</servlet-mapping>
+	
+	<!-- 合服接口 -->
+	<servlet>
+		<description>combine</description>
+		<display-name>combine</display-name>
+		<servlet-name>combine</servlet-name>
+		<servlet-class>mango.condor.servlet.CombineServerServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>combine</servlet-name>
+		<url-pattern>/combine</url-pattern>
+	</servlet-mapping>
+	
+	<!-- 删除多余玩家接口 -->
+	<servlet>
+		<description>delete</description>
+		<display-name>delete</display-name>
+		<servlet-name>delete</servlet-name>
+		<servlet-class>mango.condor.servlet.DeletePlayersServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>delete</servlet-name>
+		<url-pattern>/delete</url-pattern>
+	</servlet-mapping>
+	
+	<!-- 重置所有用户GeoHash数据 -->
+	<servlet>
+		<description>ResetGeoHashDataServlet</description>
+		<display-name>ResetGeoHashDataServlet</display-name>
+		<servlet-name>ResetGeoHashDataServlet</servlet-name>
+		<servlet-class>mango.condor.servlet.ResetGeoHashDataServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>ResetGeoHashDataServlet</servlet-name>
+		<url-pattern>/ResetGeoHashDataServlet</url-pattern>
+	</servlet-mapping>
+</web-app>

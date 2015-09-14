@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs
+END
+ClearFollowMsgReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/ClearFollowMsgReqMsg.java
+END
+DeleteFollowListReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/DeleteFollowListReqMsg.java
+END
+GetNeighbourReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetNeighbourReqMsg.java
+END
+InsertFollowListReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/InsertFollowListReqMsg.java
+END
+IndexRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/IndexRspMsg.java
+END
+GetPlayerInfoRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetPlayerInfoRspMsg.java
+END
+GetNewChatNumRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetNewChatNumRspMsg.java
+END
+GetFollowMsgRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetFollowMsgRspMsg.java
+END
+GetFollowRankRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetFollowRankRspMsg.java
+END
+CachePlayerInfoReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/CachePlayerInfoReqMsg.java
+END
+ClearFollowMsgRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/ClearFollowMsgRspMsg.java
+END
+GetFollowListReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetFollowListReqMsg.java
+END
+DeleteFollowListRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/DeleteFollowListRspMsg.java
+END
+GetNeighbourRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetNeighbourRspMsg.java
+END
+GetFanListReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetFanListReqMsg.java
+END
+InsertFollowListRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/InsertFollowListRspMsg.java
+END
+IndexReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/IndexReqMsg.java
+END
+GetPlayerInfoReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetPlayerInfoReqMsg.java
+END
+GetFollowMsgReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetFollowMsgReqMsg.java
+END
+CachePlayerInfoRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/CachePlayerInfoRspMsg.java
+END
+GetNewChatNumReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetNewChatNumReqMsg.java
+END
+GetFollowListRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetFollowListRspMsg.java
+END
+GetFanListRspMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetFanListRspMsg.java
+END
+GetFollowRankReqMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/fengniao/!svn/ver/58944/dev/server/condor_lbs/branches/3.15/src/main/java/mango/condor/domain/msg/lbs/GetFollowRankReqMsg.java
+END
